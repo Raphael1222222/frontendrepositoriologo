@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(49, 49, 49);
+    font-family: "Playfair Display", Arial, Helvetica, sans-serif;
+}
+
+.titulo {
+    text-align: center;
+    flex-grow: 1;
+    font-size: 2em;
+}
+
+.logoprincipal {
+    position: absolute;
+    left: 20px;
+    width: 40px;
+}
